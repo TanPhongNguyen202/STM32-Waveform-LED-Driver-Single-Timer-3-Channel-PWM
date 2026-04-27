@@ -1,0 +1,4 @@
+../Core/Src/led_effect.c:30:6:LED_Effect_Init	1
+../Core/Src/led_effect.c:37:6:LED_Effect_UpdateISR	6
+../Core/Src/led_effect.c:74:6:LED_Effect_SetSpeed	3
+../Core/Src/led_effect.c:81:6:LED_Effect_Toggle	1
